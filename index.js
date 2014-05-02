@@ -6,7 +6,7 @@
  * Licensed under the MIT license.
  */
 
-var gm 		= require('gm').subClass({ imageMagick: true });
+var gm 		      = require('gulp-gm');
 var async       = require("async");
 var path        = require("path");
 var os          = require("os");
