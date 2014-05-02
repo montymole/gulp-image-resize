@@ -1,7 +1,7 @@
 {
   "name": "gulp-image-resize",
   "description": "Resizing images made easy.",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "homepage": "https://github.com/scalableminds/gulp-image-resize",
   "author": {
     "name": "Norman Rzepka",
